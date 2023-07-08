@@ -1,0 +1,12 @@
+{
+  "name": "ff-gfycat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "David Mzareulyan",
+  "license": "MIT",
+  "dependencies": {
+    "postgres": "^3.3.5"
+  }
+}
