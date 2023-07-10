@@ -6,4 +6,4 @@ comments. Usage:
 - Edit the `config.js`
 - Run `node index.js`
 
-Found gfycat.com IDs will be printed to the console.
+Found gfycat.com URLs will be printed to the console.
